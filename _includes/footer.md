@@ -1,5 +1,3 @@
-
-
 Association [MiNET](http://www.minet.net)
 &mdash;
 <i class="fa fa-envelope"></i> [Email](mailto:bureau@minet.net)
