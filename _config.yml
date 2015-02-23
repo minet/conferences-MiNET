@@ -16,12 +16,11 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Les conférences MiNET"
-keywords:    "conference, MiNET"
+keywords:    "conference, MiNET, openstack, git, debian, cybersecurite"
 description: "Conférences organisées par l'association MiNET"
-#source_link:
 favicon:     "http://conference.minet.net/resources/img/favicon.png"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+piwik_site_id: "12"
 
 
 ### template colors, used site-wide via css ###
