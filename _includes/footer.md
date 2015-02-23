@@ -2,6 +2,8 @@
 
 Association [MiNET](http://www.minet.net)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+<i class="fa fa-envelope"></i> [Email](mailto:bureau@minet.net)
 &mdash;
-[Nous contacter](mailto:bureau@minet.net)
+<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/minettmsp)
+&mdash;
+[SinglePaged theme](https://github.com/t413/SinglePaged)
