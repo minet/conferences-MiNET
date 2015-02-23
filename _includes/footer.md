@@ -1,6 +1,6 @@
 
 
-Assication [MiNET](http://www.minet.net)
+Association [MiNET](http://www.minet.net)
 &mdash;
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
