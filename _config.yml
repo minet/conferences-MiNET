@@ -18,8 +18,7 @@ highlighter: pygments
 title:       "Les conférences MiNET"
 keywords:    "conference, MiNET, openstack, git, debian, cybersecurite"
 description: "Conférences organisées par l'association MiNET"
-favicon:     "http://conference.minet.net/resources/img/favicon.png"
-touch_icon:  "img/apple-touch-icon.png"
+favicon:     "img/favicon.ico"
 piwik_site_id: "12"
 
 
