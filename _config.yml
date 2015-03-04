@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "Les conférences MiNET"
 keywords:    "conference, MiNET, openstack, git, debian, cybersecurite, doocracy"
-description: "Conférences annuelles sur le monde du logiciel libre, organisées par l'association MiNET."
+description: "Conférences annuelles sur le monde du logiciel libre organisées par l'association MiNET, fournisseur d'accès à Internet sur le campus de Télécom SudParis et Télécom École de Management."
 favicon:     "img/favicon.ico"
 piwik_site_id: "12"
 
