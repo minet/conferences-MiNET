@@ -16,8 +16,8 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Les conférences MiNET"
-keywords:    "conference, MiNET, openstack, git, debian, cybersecurite"
-description: "Conférences organisées par l'association MiNET"
+keywords:    "conference, MiNET, openstack, git, debian, cybersecurite, doocracy"
+description: "Conférences annuelles sur le monde du logiciel libre, organisées par l'association MiNET."
 favicon:     "img/favicon.ico"
 piwik_site_id: "12"
 
