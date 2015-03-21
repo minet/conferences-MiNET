@@ -379,6 +379,7 @@ table
 
 td, th
 {
-    border: 1px solid white;
-    padding: 3px;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 17px;
 }
