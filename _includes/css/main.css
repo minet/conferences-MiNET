@@ -388,3 +388,11 @@ img.right {
     float: right;
     margin-left: 10px;
 }
+
+p {
+    text-align: justify;
+}
+
+#footer p {
+    text-align: center;
+}
